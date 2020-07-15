@@ -1,5 +1,5 @@
 # cute koishi
  Breaking down a discord meme using Python
 
-This picture appears like cute koishi, but when open in a browser, rick rolls appears. If you download the full image, a cursed version shows up the browser.
-THe code will download the picture instead of getting redirected to youtube.
+This link shows up cute koishi in discord, but when open in a browser, rick roll on youtube appears. If you download the full image, a cursed version shows up since it's an animated png with two frames.
+The code will download the picture instead of getting redirected to youtube.
